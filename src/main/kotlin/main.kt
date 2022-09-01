@@ -1,6 +1,8 @@
-fun main() {
-    // Console, Portaria, Pessoa, Convite
+import control.Portaria
 
-    Portaria().controle()
+fun main() {
+    // control.Console, Portaria, entity.Pessoa, entity.Convite
+
+    Portaria()
 
 }
