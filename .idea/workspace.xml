@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cdf10b7-ba17-4e8f-85d5-6ce060383a31" name="Changes" comment="Criação de classes - Console e Portaria">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/business/ConviteBusiness.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/entity/Convite.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/entity/Pessoa.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="1cdf10b7-ba17-4e8f-85d5-6ce060383a31" name="Changes" comment="Entidades e validações">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/business/ConvidadoBusiness.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Console.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/control/Console.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Portaria.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/control/Portaria.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/business/ConviteBusiness.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/control/Portaria.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/control/Portaria.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/entity/Convite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/entity/Convidado.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/entity/Pessoa.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661985225188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Entidades e validações">
+      <created>1662043108656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662043108656</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +110,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="README" />
     <MESSAGE value="Criação de classes - Console e Portaria" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de classes - Console e Portaria" />
+    <MESSAGE value="Entidades e validações" />
+    <option name="LAST_COMMIT_MESSAGE" value="Entidades e validações" />
   </component>
 </project>
